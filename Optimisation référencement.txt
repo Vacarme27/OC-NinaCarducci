@@ -1,0 +1,13 @@
+Optimisation du site Nina Carducci : 
+
+- Ajouter une balise <title>
+
+- Structurer correctement les balises <h1> à <h6>
+
+- Ajouter des attributs alt aux balises <img> pour l'accessibilité
+
+- Utiliser des balises appropriées pour structurer le contenu : <header>, <footer>, <nav>, <main>, <section>, <article> ...
+
+- Mettre une balise <meta name="description"> pour fournir une brève description de la page
+
+- Redimensionner les images pour optimiser la vitesse de chargement
