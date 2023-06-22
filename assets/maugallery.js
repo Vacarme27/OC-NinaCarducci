@@ -46,7 +46,7 @@
     lightboxId: null,
     showTags: true,
     tagsPosition: "bottom",
-    navigation: true
+    navigation: true,
   };
   $.fn.mauGallery.listeners = function(options) {
     $(".gallery-item").on("click", function() {
