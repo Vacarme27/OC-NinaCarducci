@@ -11,3 +11,5 @@ Optimisation du site Nina Carducci :
 - Mettre une balise <meta name="description"> pour fournir une brève description de la page
 
 - Redimensionner les images pour optimiser la vitesse de chargement
+
+-Rapport Rich snippet : https://search.google.com/test/rich-results/result?id=RAUWIwCYmiflsUAVav7Xmg
